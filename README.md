@@ -1,5 +1,5 @@
 # ping-pong
-canvas ping-pong game
+🏓 canvas ping-pong game
 
 In order to run a development or production build:
 
